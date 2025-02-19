@@ -54,5 +54,5 @@ pip install opencv-python PyQt5
 
 ## Lisans
 
-Bu proje açık kaynaklıdır ve herhangi bir ticari kullanım için serbesttir.
+Bu proje açık kaynaklıdır ve herhangi bir ticari kullanım için izin alınması gereklidir kodun tüm parçaları paylaşılmamıştır.
 
